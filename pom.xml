@@ -235,7 +235,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <!--
   <repositories>
     <repository>
       <id>project.local</id>
@@ -243,7 +242,6 @@
       <url>file:${project.basedir}/libs</url>
     </repository>
   </repositories>
-  -->
   <build>
     <resources>
       <resource>
